@@ -44,6 +44,6 @@ public class rhombus
             }
             c = 'A';       
             System.out.println();
-            }
-            }
-            }
+         }
+         }
+         }
